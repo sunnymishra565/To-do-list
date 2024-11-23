@@ -70,3 +70,12 @@ Implementation Platforms
 Mobile Apps: Android, iOS
 Web Apps: Accessible through browsers
 Desktop Applications: Windows, macOS
+
+## Installation and Requirements💻
+Python Version:🐍
+
+Ensure you have Python 3.6+ installed on your system. Libraries:
+
+The application uses only the standard Python library (tkinter). Steps:
+
+Clone or download the repository. Run the script using python to_do_list.py.
