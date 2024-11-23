@@ -2,7 +2,7 @@
 
 ![](I1.png)
 
-## To-Do List Application
+## To-Do List Application 📱
 
 Description
 A to-do list application is a productivity tool designed to help users organize tasks, set priorities, and manage time effectively. It enables users to track tasks, deadlines, and progress, making it easier to stay focused and complete objectives.
@@ -38,7 +38,7 @@ Recurring Tasks: Set recurring tasks for daily, weekly, or monthly schedules.
 Subtasks: Break down larger tasks into smaller, manageable subtasks.
 AI Suggestions: Receive automated suggestions to prioritize or reschedule tasks.
 
-## How It Works
+## How It Works 💫🌟
 User Registration:
 
 Sign up or log in using email, Google, or other credentials.
